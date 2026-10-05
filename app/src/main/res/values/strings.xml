@@ -1,8 +1,6 @@
 <resources>
-    <string name="app_name">loginAppAS</string>
-    <string name="title_text">Rejestruj konto</string>
-    <string name="email_label">Podaj email:</string>
-    <string name="password_label">Podaj hasło:</string>
-    <string name="repeat_password_label">Powtórz hasło:</string>
-    <string name="confirm_box">Zatwierdź</string>
+    <string name="product_name">Niewolnik</string>
+    <string name="product_price">6,39 zł</string>
+    <string name="add_cart">DODAJ DO KOSZYKA</string>
+    <string name="buy_now">KUP TERAZ</string>
 </resources>
